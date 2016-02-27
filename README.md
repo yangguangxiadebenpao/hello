@@ -1,2 +1,3 @@
 # hello
-just another repository
+Hi humans!
+I'm Yangguang,I like node.
